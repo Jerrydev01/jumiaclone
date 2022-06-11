@@ -1,0 +1,58 @@
+TECH STACK TO BE USED
+
+#Redux/state management
+npm install @reduxjs/toolkit****
+
+#React router/page navigation
+npm i react-router-dom ******
+
+#swiperJs/ slides
+ npm i swiper ****
+
+#fontawesome icons/icons
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+#tailwindcss/css
+https://tailwindcss.com/docs/guides/create-react-app
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+
+/---------------COLORS--------------/
+
+#body= #F5F5F5
+#button=#FE9900
+#section= #FFFFFF
+#countDownBanner=#E61601
+#topDealsHeader=#B60000
+#deals to expect=#FEE2CC
+#brand deals=#E2F5FF
+#footerBody=#323232
+#footerHeader=#282828
+#footerIconsHover=#F68B1E
+
+/----------FONTS----------------------/
+
+#links = segoe UI/Regular
+font-size = 12px
+line-height = 1
+
+/////////////////////////////////////
+
+#buttonText=segoe UI/Medium
+color = white
+font-size =14px
+
+p = 14px
+h2=20px
+h4=16px
+
+
+ONLINE REFERENCE FOR THIS PROJECT
+
+#How to detect a click outside a React component
+
+https://blog.logrocket.com/detect-click-outside-react-component-how-to/
+
+//////////////////////////////////////////////////////
